@@ -10,6 +10,6 @@ Successfully utilized the CIFAR-10 dataset, which consists of 60,000 color image
 
 ## Implementation Details:
 Implemented a CNN architecture tailored to the CIFAR-10 dataset, comprising multiple convolutional and pooling layers followed by fully connected layers for classification.
-Employed data preprocessing techniques such as normalization and augmentation to enhance model performance and robustness.
+Employed data preprocessing techniques such as L2 regularization, dropout layers, batch normalization and data augmentation to enhance model performance and robustness.
 Utilized techniques like mini-batch gradient descent and Adam optimization for efficient model training.
 
